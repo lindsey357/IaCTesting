@@ -11,3 +11,4 @@ Mehedi Hassan (Lead) , Akond Rahman
 > Coming soon 
 
 > First step, detect testing anti-patterns 
+Lindsey Rafalsky Edit
